@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PowerFit Gym</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <h1>PowerFit Gym</h1>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="hero" id="home">
+    <h2>Transform Your Body</h2>
+    <p>Train Hard. Stay Fit. Live Healthy.</p>
+    <a href="#contact" class="btn">Join Now</a>
+</section>
+
+<section id="about" class="section">
+    <h2>About Us</h2>
+    <p>PowerFit Gym provides world-class fitness equipment, expert trainers, and personalized workout plans.</p>
+</section>
+
+<section id="services" class="section">
+    <h2>Our Services</h2>
+    <div class="cards">
+        <div class="card">
+            <h3>Personal Training</h3>
+            <p>One-on-one coaching to achieve your fitness goals.</p>
+        </div>
+        <div class="card">
+            <h3>Cardio Zone</h3>
+            <p>Latest treadmills, bikes, and cardio equipment.</p>
+        </div>
+        <div class="card">
+            <h3>Strength Training</h3>
+            <p>Modern weightlifting equipment for muscle building.</p>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="section">
+    <h2>Contact Us</h2>
+    <p>Email: info@powerfitgym.com</p>
+    <p>Phone: +91 9876543210</p>
+</section>
+
+<footer>
+    <p>© 2026 PowerFit Gym. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
